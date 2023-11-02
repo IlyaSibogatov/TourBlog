@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TourBlog</string>
+
+    <!--  MainScreen  -->
+    <string name="main_label">Главная</string>
+
+    <!--  AppBar  -->
+    <string name="load_label">Загрузка…</string>
+
+    <!--  BottomBar  -->
+    <string name="main_title">Главная</string>
+    <string name="maps_title">Карта</string>
+    <string name="reservation_title">Бронь</string>
+    <string name="chats_title">Чаты</string>
+    <string name="profile_title">Профиль</string>
+
+    <!--  Other  -->
+    <string name="rub_price">%1$s ₽</string>
+    <string name="night_lable"> / ночь</string>
+    <string name="guest_count">До %1$s гостей</string>
+    <string name="show_all_items">Показать все (%1s)</string>
+</resources>
